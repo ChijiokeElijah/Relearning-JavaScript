@@ -44,18 +44,19 @@ Days 1-5: Basics of JavaScript
     - Add a  src  attribute to your script tag and link your  .js  file.(<script src="file.js"></script>)
     - Open the html file with a browser to run your JavaScript code. You can check for errors in the browser console.  
 
+
 # Day 3 of 90
-    Today I learnt about Extensions and how they enable you add languages, dubuggers and tools to make workflow easier.
-    I installed one of the best extensions called Liver Server.
+Today I learnt about Extensions and how they enable you add languages, dubuggers and tools to make workflow easier.
+I installed one of the best extensions called Liver Server.
 
-    Live Server: This extension launches a local development server with a live reload feature such that each time a saves my code, changes reflect instantly on the browser.
+Live Server: This extension launches a local development server with a live reload feature such that each time a saves my code, changes reflect instantly on the browser.
 
-    To install this: 
-    - I clicked on the Extension tab on the left-side bar on my VSCode.
-    - Typed the name of the extension (Live Server), inside the search bar.
-    - Select the one by Ritwick Dey and click on install, wait till in completes the installation.
+## To install this: 
+- I clicked on the Extension tab on the left-side bar on my VSCode.
+- Typed the name of the extension (Live Server), inside the search bar.
+- Select the one by Ritwick Dey and click on install, wait till in  completes the installation.
 
-    Notice a Go Live button at the bottom-bar of your VsCode, a click on this button launches your code on the Web browser and changes made in your Vscode reflects immediately it's saved.
+Notice a Go Live button at the bottom-bar of your VsCode, a click on this button launches your code on the Web browser and changes made in your Vscode reflects immediately it's saved.
 
-    I went on to install other useful extensions like ESlint, Code Spell etc.
+I went on to install other useful extensions like ESlint, Code Spell etc.
 
