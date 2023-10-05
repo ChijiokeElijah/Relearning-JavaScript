@@ -53,7 +53,6 @@ Live Server: This extension launches a local development server with a live relo
 
 ## To install this: 
 - I clicked on the Extension tab on the left-side bar on my VSCode.
-- Typed the name of the extension (Live Server), inside the search bar.
 - Select the one by Ritwick Dey and click on install, wait till it  completes the installation.
 
 Notice a Go Live button at the bottom-bar of your VsCode, a click on this button launches your code on the Web browser and changes made in your Vscode reflects immediately it's saved.
@@ -61,10 +60,10 @@ Notice a Go Live button at the bottom-bar of your VsCode, a click on this button
 I went on to install other useful extensions like ESlint, Code Spell Checker etc.
 
 
-#DAY 5 OF 90
+# DAY 5 OF 90
 Today I learnt of variables and their declarations
 
-Variables are like containers we use to store data. Declaration is the creation of the variables after which values can be assigned to them.
+## Variables are like containers we use to store data. Declaration is the creation of the variables after which values can be assigned to them.
 
 ```
     let myName = 'Cindy'
