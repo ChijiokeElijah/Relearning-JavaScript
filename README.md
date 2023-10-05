@@ -77,5 +77,6 @@ In the example above, myName is a variable used to store the value - Cindy. If I
 Without the variables, I will have to supply the value each time it is requested for in the program.
 
 - Variables can be declared only once and can be done in 4 ways.
-- Variables can be named anything except JavaScript reserved words eg. let, const, var etc.
-- Variable names must start with either alphabets, underscores and dollar signs.
+- Variables can be named anything except JavaScript reserved words eg. let, console, var etc.
+- Variable names must start with either alphabets, underscores or dollar signs.
+- Variables can be reassigned a new value.
