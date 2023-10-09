@@ -1,8 +1,8 @@
 # JS-90 DAYS GUIDELINE
 
 
-## GOAL FOR THE WEEK 1
-Days 1-5: Basics of JavaScript
+
+## Days 1-5: Basics of JavaScript
 - About JavaScript.
 - Its uses and role in web development.
 - Set up the development environment with a code editor.
