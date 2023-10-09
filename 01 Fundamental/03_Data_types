@@ -1,16 +1,16 @@
-## DATA TYPES AND ITS USES
+# DATA TYPES AND ITS USES
 
 The content of a variable, which we refer to as value or data is always of a certain type. e.g Number or string.
 
-The variable that stores data is not affected by the data type. This is to say, one variable used to store a string can be used to store a Number another moment.
+The variable that stores data is not affected by the data type. 
+This is to say, one variable used to store a string can be used to store a Number another moment.
 
 ```
     let content = "Welcome";
 
     content = 1234567890;
-
 ```
-The above code will not throw any error because JavaScript is a *dynamically typed* programming language.
+The above code will not throw any error because JavaScript is a `dynamically typed` programming language.
 
 
 ## There are 8 data types in JavaScript.
@@ -28,7 +28,7 @@ The Number type refers to both integers and floating point numbers.
 ## 2. BigInt  
 The bigInt type is used to store numbers too big to be represented in the Number type.
 
-JavaScript numbers are stored in 64-bit floating point format, this means that larger number cannot be stored exactly hence rounded off.
+JavaScript numbers are stored in 64-bit floating point format, this means that larger numbers cannot be stored exactly hence rounded off.
 Numbers higher than  `9007199254740991` or lower than `-9007199254740991` can only be stored with bigInt.
 
 A bigInt value is created by appending `n` at the end of an integer.
@@ -41,7 +41,7 @@ A bigInt value is created by appending `n` at the end of an integer.
 
 ## 3. String
 
-A string in JavaScript is zero or more characters enclosed in a single quote or double quote.
+A string in JavaScript is zero or more characters enclosed in a single or double quote.
 
 ```
     let fName  = 'Cindy';
@@ -96,7 +96,7 @@ The above simply means the value of 'fName' is unknown.
 
 An object is a collection of properties, where each property is defined by a key-value pair.
 
-An object is defined by '{}'
+An object is defined by `{}`
 
 ```
     let person = {
@@ -110,10 +110,10 @@ The person object has  properties 'firstName' and 'lastName'.
 
 The property of an object can be another object.
 
-To access the an object's property, you can use 
+To access an object's property, you can use 
 
-- The dot '.' notation or
-- The bracket '[]' notation
+- The dot `.` notation or
+- The bracket `[]` notation
 
 Example:
 
