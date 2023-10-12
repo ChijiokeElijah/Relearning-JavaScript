@@ -4,12 +4,12 @@ Template literals makes it easy to work with string template.
 
 Earlier, we learnt of wrapping strings with single quotes (`'`) and double quotes (`"`) but these provided a very limited functionality.
 
-With the advent of ES6, strings can be wrapped with backticks (*`*) which allows for a cleaner and safer way of working with strings.
+With the advent of ES6, strings can be wrapped with backticks (``\`) which allows for a cleaner and safer way of working with strings.
 
 ```
     let origin =   `I am from Nigeria.` 
 ```
-This means we can:
+This means:
  - We can have a string span multiple lines.
  - We can substitute parts of the string with values of variables or expressions.
  - We can safely include HTML in a string.
@@ -17,7 +17,7 @@ This means we can:
  If a string contains backtick, you have to escape it using a backlash `\`
 
  ```
-    let message = `String template literals use `\, not double or single quotes.`
+    let message = `String template literals use \`, not double or single quotes.`
  ```
 
 
