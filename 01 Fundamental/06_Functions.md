@@ -36,7 +36,7 @@ The function below adds two numbers without a `return` statement.
 ```
     function Sum(a, b){
 
-    alert(a + b)
+    alert(a + b);
 
     }
 
