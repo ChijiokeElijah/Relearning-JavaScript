@@ -6,7 +6,7 @@ In JavaScript, a function is a block of code that performs a particular task.
 
 Function definition or declaration.
 
-To define a function, we use the `(function)` keyword, the name of the function followed by a parenthesis and the function body enclosed in a curly braces `{}`.
+To define a function, we use the `function` keyword, the name of the function followed by a parenthesis and the function body enclosed in a curly braces `{}`.
 
 ```
     function functionName(parameters){
@@ -18,20 +18,20 @@ To define a function, we use the `(function)` keyword, the name of the function 
 
 Inside the function body, you can write the code to be executed whenever the function is called.
 
-To call a function, you write the  function name together with a parenthesis that contains the arguments the corresponds with the parameters if any.
+To call a function, you write the  function name together with a parenthesis that contains the arguments which corresponds to the parameters (if any).
 
 A function can accept zero, one or more parameters. In the case of multiple parameters, they are separated by commas.
 
 When declaring a function, you indicate the parameters; when calling a function, you pass the arguments that corresponds with the parameters.
 
-How do I get the result of the task from my function?
-
-Every function in JavaScript by default returns `undefined` unless a return value is specified.
+How do I get the result of the task performed by my function?
 
 To indicate the return value for your function, a `return` statement is used followed by the value or expression.
 
+Every function in JavaScript by default returns `undefined` unless a return value is specified.
 
-The function below adds two numbers without a `return` statement.
+
+The function below adds two numbers and has no `return` statement.
 
 ```
     function Sum(a, b){
@@ -52,7 +52,7 @@ Output:
 
 ```
 
-The function below adds two numbers with a `return` statement.
+The function below adds two numbers and has a `return` statement.
 
 
 ```
@@ -77,7 +77,7 @@ Output:
 
 A function body can contain conditionals.
 
-This function does nothing if no name argument is not passed during the function call but returns `Hello name` when a name argument is passed 
+This function below does nothing if the name argument is not passed during the function call but returns `Hello name` when a name argument is passed 
 
 
 ```
